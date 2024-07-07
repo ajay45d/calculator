@@ -60,3 +60,7 @@ button{
 .operator{
     color: #71ff04;
 }
+.text{
+    color: #0a0a0a;
+    font-size: 10px;
+}
